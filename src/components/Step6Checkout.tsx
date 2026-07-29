@@ -110,9 +110,9 @@ export const Step6Checkout: React.FC<Props> = ({
                 </div>
                 <div className="text-right">
                   <span className="text-2xl font-black font-display text-pink-600">
-                    $499
+                    ₦20,000.00
                   </span>
-                  <p className="text-[10px] text-gray-400">USD</p>
+                  <p className="text-[10px] text-gray-400">NGN</p>
                 </div>
               </div>
 
@@ -120,7 +120,7 @@ export const Step6Checkout: React.FC<Props> = ({
                 <span className="flex items-center gap-1">
                   <Sparkles className="w-3.5 h-3.5 text-pink-500" /> Total Due Now
                 </span>
-                <span className="text-sm font-bold text-pink-700">$499.00</span>
+                <span className="text-sm font-bold text-pink-700">₦20,000.00</span>
               </div>
             </div>
 
@@ -141,7 +141,7 @@ export const Step6Checkout: React.FC<Props> = ({
               ) : (
                 <>
                   <CreditCard className="w-5 h-5" />
-                  <span>pay $499 & confirm 💖</span>
+                  <span>pay ₦20,000.00 & confirm 💖</span>
                 </>
               )}
             </motion.button>
@@ -179,7 +179,7 @@ export const Step6Checkout: React.FC<Props> = ({
             </h2>
 
             <p className="text-sm text-pink-600 font-semibold mb-6 bg-emerald-50 text-emerald-800 px-4 py-2 rounded-xl border border-emerald-200">
-              Transaction ID: #DATE-2026-VALUABLE-499 💸
+              Transaction ID: #DATE-2026-VALUABLE-20,000 💸
             </p>
 
             {/* Cute receipt details */}
@@ -191,7 +191,7 @@ export const Step6Checkout: React.FC<Props> = ({
               <div className="border-t border-dashed border-gray-200 pt-2 text-sm space-y-1.5">
                 <div className="flex justify-between font-bold text-gray-800">
                   <span>1x Date Agreement™</span>
-                  <span>$499.00</span>
+                  <span>₦20,000.00</span>
                 </div>
                 <div className="flex justify-between text-xs text-gray-500">
                   <span>Guaranteed Good Time</span>
@@ -204,7 +204,7 @@ export const Step6Checkout: React.FC<Props> = ({
               </div>
               <div className="border-t border-dashed border-gray-200 pt-2 flex justify-between font-extrabold text-pink-700 text-base">
                 <span>Grand Total</span>
-                <span>$499.00</span>
+                <span>₦20,000.00</span>
               </div>
             </div>
 
