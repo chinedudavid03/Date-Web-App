@@ -171,7 +171,7 @@ export default function App() {
 
       {/* Footer credits */}
       <footer className="text-center text-xs font-semibold text-pink-700/80 z-10 pt-4 pb-2">
-        Made with 💕 • Replit Lunch Project
+        Made with 💕 • Designed By DAVID 
       </footer>
     </div>
   );
