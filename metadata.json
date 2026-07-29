@@ -1,0 +1,6 @@
+{
+  "name": "Date Proposal",
+  "description": "An interactive multi-step date proposal app with playful evasive logic, date & food selectors, and funny prank checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
